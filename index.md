@@ -10,4 +10,4 @@ Projects:
 * WCS Outcome Performance Metrics
 * National FSim
 
-![Fire Lab Logo](D:/Projects/Other/ESIIL_data_course/fire_lab_logo_Final.png)
+![Fire Lab Logo](/img/fire_lab_logo_Final.png)

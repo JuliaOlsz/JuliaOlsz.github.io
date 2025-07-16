@@ -13,6 +13,6 @@ Projects:
 <img 
   src="/img/fire_lab_logo_Final.png" 
   alt="Fire Lab logo" 
-  width="20%">
+  width="20%"/>
 
 [Email](mailto:julia.olszewski@usda.gov)

@@ -18,4 +18,4 @@ Projects:
 [Email](mailto:julia.olszewski@usda.gov)
 
 Map assignment for ESIIL short course
-<embed type="text/html" src="/img/horsetooth.html" width="300" height="400">
+<embed type="text/html" src="/img/horsetooth.html" width="600" height="600">

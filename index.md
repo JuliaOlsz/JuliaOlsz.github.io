@@ -18,4 +18,5 @@ Projects:
 [Email](mailto:julia.olszewski@usda.gov)
 
 Climate assignment for ESIIL short course
-<embed type="text/html" src="/img/horsetooth.html" width="600" height="600">
+<embed type="text/html" src="/img/SRP_map.html" width="600" height="600">
+<embed type="text/html" src="/img/SRP_climate_plot.html" width="600" height="600">
